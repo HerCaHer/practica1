@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.suggest.insertTrailingSpace": true,
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": true,
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ]
+}

@@ -1,0 +1,9 @@
+#la funcio randint(), genera números aleatorios
+#Para importar la funcion se escribe primero import radom 
+
+import random
+
+from random import randint
+numero_aleatorio =randint(1111,9999)
+print(f"El numero aleatorio generado es: {numero_aleatorio}")
+

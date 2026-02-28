@@ -11,4 +11,3 @@ if num_uno >=num_dos:
 else:
     print(f"el numero mayor es:    {num_dos}")
 
-

@@ -9,7 +9,11 @@ import os
 os.system("cls")
 
 respuesta = input("¿Desea continuar dentro del sistema? (si/no): ").lower().strip()
-if not respuesta == "no":#evaluar si la respuesta es diferente a "no"
+if respuesta == "si":#evaluar si la respuesta es diferente a "no"
     print("Continuamos dentro del sistema.")
+
+elif respuesta =="no":
+    print("salir del sistema")
+
 else:
-    print("Saliendo del sistema.")  
+    print("cadena no valida.")  

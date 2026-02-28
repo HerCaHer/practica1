@@ -1,0 +1,33 @@
+import os
+os.system("cls")
+
+print("***SISTTEMA DE ENVIO***")
+
+#definir las tarifas
+COSTO_NACIONAL = 10
+COSTO_INTERNACIONAL = 20
+
+#entradas por el usuario
+
+destino = input("Ingresa el destino del paquete (nacional / internacional):  ")
+peso =float(input("ingresa el peso del paquete en kg:  "))
+
+#calcular el envio del paquete
+costo_envio = None
+#quitar espacios y cambiar a minúsculas
+destino = destino.strip().lower()
+
+#condicion
+if destino == "nacional":
+    costo_envio
+    cost = input
+    
+   costo_envio
+    
+
+
+
+
+
+
+

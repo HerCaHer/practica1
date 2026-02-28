@@ -13,6 +13,6 @@ meta_alcanzada = "SI  :)" if meta else "No :( )"
 
 calorias= pasos_caminados*CALORIAS_POR_PASO
 print(f"Nombre:  {nombre}")
-print(f"Camino:  {pasos_caminados} " )
+print(f"Camino:  {pasos_caminados}  pasos" )
 print (f"Calorias quemandas:  {calorias}  kcalorias")
 print(f"¿Alcanzaste la meta? {meta_alcanzada}")

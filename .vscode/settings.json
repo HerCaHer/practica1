@@ -1,7 +1,14 @@
 {
-    "terminal.integrated.suggest.insertTrailingSpace": true,
+    "terminal.integrated.suggest.insertTrailingSpace": false,
     "terminal.integrated.suggest.suggestOnTriggerCharacters": true,
     "terminal.integrated.commandsToSkipShell": [
         ""
-    ]
+    ],
+    "terminal.integrated.suggest.enabled": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "editor.quickSuggestionsDelay": 3
 }
